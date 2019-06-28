@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://orgz.app/sitemap.xml
+Sitemap: https://orgz.app/sitemap.xml
+

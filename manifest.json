@@ -1,0 +1,16 @@
+  {
+    "short_name": "Orgz",
+    "name": "Orgz App",
+    "icons": [
+      {
+        "src": "favicon.ico",
+        "sizes": "64x64 32x32 24x24 16x16",
+        "type": "image/x-icon"
+      }
+    ],
+    "start_url": "/?utm_source=launcher",
+    "display": "fullscreen",
+    "theme_color": "#673ab7",
+    "background_color": "#EEE"
+  }
+  
